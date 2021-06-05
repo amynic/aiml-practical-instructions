@@ -7,12 +7,12 @@ Here are some instructions on how to quickly get started with Azure Machine Lear
 
 ## Extra Reading/Resources
 You may wish to learn more about the basics of Azure and Azure Machine Learning after setting up this lab. If so here are some resources I recommend below
-* I would recommend getting a basic understanding of cloud technologies and Azure (storage, VMs and networking) from [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/?WT.mc_id=aimlworkshop-github-amynic) 
-* (Data Science) [Using Python and Azure Notebooks](https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/?WT.mc_id=aimlworkshop-github-amynic)
-    * (Bespoke Machine Learning) [Introduction to Azure Machine Learning](https://docs.microsoft.com/en-us/learn/paths/build-ai-solutions-with-azure-ml-service/?WT.mc_id=aimlworkshop-github-amynic)
+* I would recommend getting a basic understanding of cloud technologies and Azure (storage, VMs and networking) from [Azure Fundamentals](https://docs.microsoft.com/learn/paths/azure-fundamentals/?WT.mc_id=aiml-0000-amynic) 
+* (Data Science) [Using Python and Azure Notebooks](https://docs.microsoft.com/learn/paths/intro-to-ml-with-python/?WT.mc_id=aiml-0000-amynic)
+    * (Bespoke Machine Learning) [Introduction to Azure Machine Learning](https://docs.microsoft.com/learn/paths/build-ai-solutions-with-azure-ml-service/?WT.mc_id=aiml-0000-amynic)
 * **General other interesting learning:**
-    * (Theory/approaches) [Machine Learning Crash Course](https://docs.microsoft.com/en-us/learn/paths/ml-crash-course/?WT.mc_id=aimlworkshop-github-amynic)
-    * [Principles for Responsible AI](https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/?WT.mc_id=aimlworkshop-github-amynic)
+    * (Theory/approaches) [Machine Learning Crash Course](https://docs.microsoft.com/learn/paths/ml-crash-course/?WT.mc_id=aiml-0000-amynic)
+    * [Principles for Responsible AI](https://docs.microsoft.com/learn/modules/responsible-ai-principles/?WT.mc_id=aiml-0000-amynic)
 
 ## Steps to get Setup
 1. Create an Azure Machine Learning Instance
@@ -26,7 +26,7 @@ You may wish to learn more about the basics of Azure and Azure Machine Learning 
 
 You will create an Azure Machine Learning workspace in the cloud - so you can access remote compute, store large datasets and run your notebooks remotely
 
-* Go to [http://azure.microsoft.com/](http://azure.microsoft.com/)
+* Go to [https://azure.microsoft.com/?WT.mc_id=aiml-0000-amynic](https://azure.microsoft.com/?WT.mc_id=aiml-0000-amynic)
 * Sign into your account in the top right
 * You will land on the Azure Portal homepage
 ![Azure Homepage](/img/azure-home.PNG)
